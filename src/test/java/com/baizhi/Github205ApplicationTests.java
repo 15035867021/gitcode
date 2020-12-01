@@ -8,6 +8,7 @@ class Github205ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("你好！");
     }
 
 }
