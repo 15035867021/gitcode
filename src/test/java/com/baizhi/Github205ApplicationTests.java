@@ -9,6 +9,7 @@ class Github205ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("你好！");
+        System.out.println("第二次修改");
     }
 
 }
